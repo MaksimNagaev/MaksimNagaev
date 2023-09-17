@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaksimNagaev
-- 👀 I’m interested in introducing with Java & Pyton, testing products & QA, Git/GitHub and SQL.
+- 👀 I’m interested in introducing with Java & Python, testing products & QA, Git/GitHub and SQL.
 - 🌱 I’m currently learning on GB courses and some others.
 - 💞️ I invite to cooperation all those interested in the exchange of experience, as well as potential employers interested in a promising employee in the field of product testing.
 - 📫 How to contact me - Tolyatti, Russia
